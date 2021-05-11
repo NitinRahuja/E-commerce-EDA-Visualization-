@@ -1,1 +1,1 @@
-# E-commerce-data-analysis-using-SQL-and-Plotly
+# E-commerce Exploratory Data Analysis & Vizualization
